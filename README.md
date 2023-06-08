@@ -39,5 +39,5 @@ See <a href="https://github.com/MireyNM/Nashville_Housing/blob/main/codes/cleani
 ## Copywrite
 This is a guided project done by <a href="https://github.com/AlexTheAnalyst/PortfolioProjects">Alex The Analyst</a> 
 </br>
-You can check his <a href="https://youtu.be/qfyynHBFOsM">Data Analyst Portfolio Projects</a> on Youtube. 
-One should note that the code writtien here is slightly modified beacuse we have used PostgreSQL. 
+You can check his <a href="https://youtu.be/qfyynHBFOsM">Data Analyst Portfolio Projects</a> on Youtube. </br>
+One should note that the code written here is slightly modified beacuse we have used PostgreSQL and PgAdmin
